@@ -10,7 +10,7 @@ Sencilla aplicación para buscar usuarios de GitHub
 ## 2. Página web
 Web en proceso para una tienda de instrumentos musicales.
 **Tecnologías:** html, css 
-🔗 Código: https://github.com/RAquel-Lillo/practica-3-css-basico-RAquel-Lillo.git
+🔗 Código: https://github.com/RAquel-Lillo/proyecto-web-instrumentos-musicales.git
 
 ## 3. Nombre del proyecto 3
 Descripción corta.  
