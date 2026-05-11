@@ -2,10 +2,10 @@
 
 Aquí encontrarás una selección de mis proyectos como desarrollador de aplicaciones web/multiplataforma.
 
-## 1. Nombre del proyecto 1
-Descripción corta de qué hace el proyecto y para qué sirve.  
+## 1. Aplicación React
+Sencilla aplicación para buscar usuarios de GitHub 
 **Tecnologías:** HTML, CSS, JavaScript  
-🔗 Código: https://github.com/tuusuario/nombre-repo-1
+🔗 Código: https://github.com/RAquel-Lillo/proyect-react.git
 
 ## 2. Nombre del proyecto 2
 Descripción corta.  
