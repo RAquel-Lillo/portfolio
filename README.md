@@ -4,13 +4,13 @@ Aquí encontrarás una selección de mis proyectos como desarrollador de aplicac
 
 ## 1. Aplicación React
 Sencilla aplicación para buscar usuarios de GitHub 
-**Tecnologías:** HTML, CSS, JavaScript  
+**Tecnologías:** React 
 🔗 Código: https://github.com/RAquel-Lillo/proyect-react.git
 
-## 2. Nombre del proyecto 2
-Descripción corta.  
-**Tecnologías:** Java, Spring Boot, MySQL  
-🔗 Código: https://github.com/tuusuario/nombre-repo-2
+## 2. Página web
+Web en proceso para una tienda de instrumentos musicales.
+**Tecnologías:** html, css 
+🔗 Código: https://github.com/RAquel-Lillo/practica-3-css-basico-RAquel-Lillo.git
 
 ## 3. Nombre del proyecto 3
 Descripción corta.  
