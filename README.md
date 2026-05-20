@@ -1,4 +1,4 @@
-# 🌟 Mis Proyectos Destacados
+# Mis Proyectos Destacados
 
 Selección de proyectos desarrollados durante mi formación en desarrollo web y multiplataforma.  
 Incluyen prácticas reales, ejercicios avanzados y proyectos personales orientados a mejorar mis habilidades técnicas.
